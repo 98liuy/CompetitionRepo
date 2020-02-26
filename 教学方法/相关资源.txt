@@ -16,3 +16,10 @@ https://www.iste.org/explore/topic/corporate-innovation
 4、ISTE STANDARDS FOR STUDENTS
 https://www.iste.org/standards/for-students
 
+5、观察了7家青少儿编程培训公司，我们得出了一些结论
+https://zhuanlan.zhihu.com/p/29130068
+
+
+Scratchjr：幼儿编程 - MIT - 5-7岁
+Blockly：图形化编程平台 - google
+
